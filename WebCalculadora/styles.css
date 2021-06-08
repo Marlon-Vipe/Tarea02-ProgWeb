@@ -1,0 +1,46 @@
+body {
+     background-color: rgb(78, 23, 23);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+.history-container {
+     margin-top: 20px;
+     
+     
+     border-radius: 30px;
+     margin-left: 500px;
+     margin-top: -300px;
+}
+
+.history-container * {
+     text-align: center;
+}
+
+ol {
+     overflow: auto;
+     height: 100px;
+}
+
+li {
+     
+     margin: 5px 0px;
+     padding: 3px;
+     font-weight: bolder;
+}
+.calculator-container {
+     
+     
+     padding: 2em;
+     border-radius: 30px;
+     margin-right: 700px;
+}
+
+.calculator-container * {
+     text-align: center;
+}
+
+.todo {
+     
+}
